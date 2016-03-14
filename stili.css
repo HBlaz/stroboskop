@@ -18,6 +18,13 @@ telo {
 	overflow: auto;
 	padding: 10px;
 }
+.robsenca{
+    border: 1px solid transparent; 
+	border-color: Red; 
+	border-radius: 4px; 
+	box-shadow: 0 4px 8px 0 rgba(128, 128, 128, 0.2), 0 6px 20px 0 rgba(128, 128, 128, 0.19);
+}
+
 
 .stroboskop {
 	margin: 0px; 
@@ -44,4 +51,5 @@ telo {
 
 #novaBarva, #odstraniBarve {
 	background: white;
+	
 }
